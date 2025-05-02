@@ -18,8 +18,8 @@ F1 Score: 0.8848920863309353
 1      0           0   1744
 2      0           1    421
 3      1           0    315
+
 Cross-validation scores: [0.86279257 0.86682809 0.86763519 0.86440678 0.85956416 0.85783522 0.87479806 0.86914378 0.84975767 0.86672052]
 Average CV score: 0.8639482046206945. 86% correctly predicted if the person obese or not. 87.0% of people were obese 90% of people are actually obese. The F1 score indicates that it has balanced precision and recall. Overall, the results indicate that people are highly obese.
-
 
 
