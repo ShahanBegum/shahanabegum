@@ -2,6 +2,8 @@
 Dataset Description: This dataset is from Data.gov it is about Behavioral Risk Factor Surveillance System focused on obesity rate across to the us. The dataset include YearStart,	YearEnd,	LocationAbbr,	LocationDesc,	Datasource, Class,	Topic,	Question,	Data_Value_Unit,	Data_Value_Type,	Data_Value,	Data_Value_Alt,	Data_Value_Footnote_Symbol,	Data_Value_Footnote,	Low_Confidence_Limit,	High_Confidence_Limit ,	Sample_Size,	Total,	Age(years),	Education	,Sex,	Income,	Race/Ethnicity,	GeoLocation,	ClassID,	TopicID,	QuestionID,	,	LocationID,	StratificationCategory1,	Stratification1,	StratificationCategoryId1, StratificationID1. 
 Variable: After cleaning and rename the columns this columns left to work with 'Year', 'YearEnd', 'State_Abbr', 'State', 'Value_Type', 'Value',  'Data_Value_Alt', 'Low_Confidence_Limit', 'High_Confidence_Limit ', 'Sample_Size', 'Total', 'Age(years)', 'Education', 'Sex', 'Income','Race/Ethnicity', 'ClassID', 'TopicID', 'QuestionID', 'DataValueTypeID'  'LocationID', 'StratificationCategoryId1', 'StratificationID1'
 
+Data Link: https://catalog.data.gov/dataset/nutrition-physical-activity-and-obesity-behavioral-risk-factor-surveillance-system
+
 Visualization: Create two plots: one bar plot and another a line plot.
 A bar plot shows the average rate by the year. A line plot shows obesity trends between males and females 
 
